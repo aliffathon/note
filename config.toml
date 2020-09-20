@@ -1,0 +1,17 @@
+baseURL = "https://www2.fathon.my.id/"
+languageCode = "en-us"
+title = "Fathon MY ID"
+theme = "nofancy"
+copyright = "Copyright (c) 2019-2020, Alif Fathon; all rights reserverd."
+
+[params]
+	highlight="default"
+	topmenu="categories"
+
+[author]
+	name = "Alif Fathon"
+	email = "afatonii2016@gmail.com"
+	github = "aliffathon"
+	linkedin = ""
+	facebook = "aliffathon"
+	instagram = "aliffathon_"
