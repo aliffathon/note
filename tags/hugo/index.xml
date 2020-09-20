@@ -1,31 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>hugo on Fathon MY ID</title>
-    <link>http://note.fathon.my.id/tags/hugo/</link>
-    <description>Recent content in hugo on Fathon MY ID</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <managingEditor>afatonii2016@gmail.com (Alif Fathon)</managingEditor>
-    <webMaster>afatonii2016@gmail.com (Alif Fathon)</webMaster>
-    <copyright>Copyright (c) 2019-2020, Alif Fathon; all rights reserverd.</copyright>
-    <lastBuildDate>Wed, 19 Aug 2020 11:46:19 +0700</lastBuildDate>
-    
-	<atom:link href="http://note.fathon.my.id/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Hugo Nofancy</title>
-      <link>http://note.fathon.my.id/posts/hugo-nofancy/</link>
-      <pubDate>Wed, 19 Aug 2020 11:46:19 +0700</pubDate>
-      <author>afatonii2016@gmail.com (Alif Fathon)</author>
-      <guid>http://note.fathon.my.id/posts/hugo-nofancy/</guid>
-      <description>Quick Start Static Content Generator with HuGO
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>hugo on Fathon MY ID</title><link>http://note.fathon.my.id/tags/hugo/</link><description>Recent content in hugo on Fathon MY ID</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>afatonii2016@gmail.com (Alif Fathon)</managingEditor><webMaster>afatonii2016@gmail.com (Alif Fathon)</webMaster><copyright>Copyright (c) 2019-2020, Alif Fathon; all rights reserverd.</copyright><lastBuildDate>Wed, 19 Aug 2020 11:46:19 +0700</lastBuildDate><atom:link href="http://note.fathon.my.id/tags/hugo/index.xml" rel="self" type="application/rss+xml"/><item><title>Hugo Nofancy</title><link>http://note.fathon.my.id/posts/hugo-nofancy/</link><pubDate>Wed, 19 Aug 2020 11:46:19 +0700</pubDate><author>afatonii2016@gmail.com (Alif Fathon)</author><guid>http://note.fathon.my.id/posts/hugo-nofancy/</guid><description>Quick Start Static Content Generator with HuGO
 Install Latest GO Download Site:
 https://golang.org/dl/ download versi terbaru untuk OS mu, misal go1.15.linux-amd64.tar.gz untuk Linux Mint 18.3 64bit
 Cara Installnya, cukup extract ke /usr/local utk dipakai secara global di sistem atau di $HOME/.bin untuk dipakai di user tersebut saja,
-cd ~ cd Downloads sudo tar -C /usr/local -xzf go1.15.linux-amd64.tar.gz #global tar -C $HOME/.bin -xzf go1.15.linux-amd64.tar.gz #local kemudian masukkan path hasil extract tadi ke environment variable sistem</description>
-    </item>
-    
-  </channel>
-</rss>
+cd ~ cd Downloads sudo tar -C /usr/local -xzf go1.15.linux-amd64.tar.gz #global tar -C $HOME/.bin -xzf go1.15.linux-amd64.tar.gz #local kemudian masukkan path hasil extract tadi ke environment variable sistem</description></item></channel></rss>
