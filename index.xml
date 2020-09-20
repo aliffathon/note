@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fathon MY ID</title>
-    <link>http://localhost:1313/</link>
+    <link>http://note.fathon.my.id/</link>
     <description>Recent content on Fathon MY ID</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,15 +11,15 @@
     <copyright>Copyright (c) 2019-2020, Alif Fathon; all rights reserverd.</copyright>
     <lastBuildDate>Wed, 19 Aug 2020 15:01:53 +0700</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://note.fathon.my.id/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Docker Ce</title>
-      <link>http://localhost:1313/posts/docker-ce/</link>
+      <link>http://note.fathon.my.id/posts/docker-ce/</link>
       <pubDate>Wed, 19 Aug 2020 15:01:53 +0700</pubDate>
       <author>afatonii2016@gmail.com (Alif Fathon)</author>
-      <guid>http://localhost:1313/posts/docker-ce/</guid>
+      <guid>http://note.fathon.my.id/posts/docker-ce/</guid>
       <description>Cara Install Docker
 OS : Ubuntu 20.04/18.04/16.04 (LTS) Arch: x86_64 (amd64), armhf, arm64
 Uninstall Versi Lama (bawaan repo ubuntu)
@@ -28,10 +28,10 @@ sudo apt-get remove docker docker-engine docker.io containerd runc sudo rm -rf /
     
     <item>
       <title>Hugo Nofancy</title>
-      <link>http://localhost:1313/posts/hugo-nofancy/</link>
+      <link>http://note.fathon.my.id/posts/hugo-nofancy/</link>
       <pubDate>Wed, 19 Aug 2020 11:46:19 +0700</pubDate>
       <author>afatonii2016@gmail.com (Alif Fathon)</author>
-      <guid>http://localhost:1313/posts/hugo-nofancy/</guid>
+      <guid>http://note.fathon.my.id/posts/hugo-nofancy/</guid>
       <description>Quick Start Static Content Generator with HuGO
 Install Latest GO Download Site:
 https://golang.org/dl/ download versi terbaru untuk OS mu, misal go1.15.linux-amd64.tar.gz untuk Linux Mint 18.3 64bit
